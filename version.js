@@ -6,4 +6,4 @@ export const versionComponent = angular.module('version', [
   'interpolateFilter',
   'versionDirective'
 ])
-.value('version', '0.2');
+.value('version', '0.2.1');
